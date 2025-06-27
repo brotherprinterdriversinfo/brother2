@@ -4,7 +4,7 @@ Download Brother Printer Driver – Windows & Mac Support
 
 .. image:: get.png
    :alt: Brother Printer Drivers
-   :target: https://fm.ci?aHR0cHM6Ly9wYWRkeXBvd2VyLXN1cHBvcnQucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci?aHR0cHM6Ly9icm90aGVycHJpbnRlcmRyaXZlcnNpbmZvLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 Is your Brother printer not responding or showing connection errors? Chances are, your system needs the correct driver installed. Whether you're using Windows or macOS, having the right **Brother printer driver** is essential for seamless printing, scanning, and error-free performance. In this guide, you'll learn how to download, install, and troubleshoot Brother printer drivers on both operating systems.
 
